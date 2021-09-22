@@ -330,7 +330,7 @@ namespace RaptorDB.Common
 #if NOASYNC
             return AddStreamAsync(_method, _filenameInZip, _source, _modTime, _comment);
 #else
-            return Task.Run(() => AddStreamAsync(_method, _filenameInZip, _source, _modTime, _comment)).Result;
+            return System.Threading.Tasks.Task.Run(() => AddStreamAsync(_method, _filenameInZip, _source, _modTime, _comment)).Result;
 #endif
         }
         /// <summary>

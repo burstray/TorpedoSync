@@ -1,0 +1,36 @@
+2021-09-23 00:56:51|DEBUG|1|TorpedoSync.TorpedoSyncServer|| Starting Server...
+2021-09-23 00:56:51|DEBUG|1|TorpedoSync.TorpedoSyncServer|| UDP server on port = 21000
+2021-09-23 00:56:51|DEBUG|1|TorpedoSync.TorpedoSyncServer|| TCP server on port = 21001
+2021-09-23 00:56:51|DEBUG|1|TorpedoSync.TorpedoSyncServer|| WEB server on port = 88
+2021-09-23 00:56:51|DEBUG|7|TorpedoSync.UDP|| my ip = 172.16.1.140
+2021-09-23 00:56:51|DEBUG|7|TorpedoSync.UDP|| my ip = 192.168.137.1
+2021-09-23 00:56:51|DEBUG|7|TorpedoSync.UDP|| my ip = 192.168.11.254
+2021-09-23 00:56:51|DEBUG|7|TorpedoSync.UDP|| my ip = 192.168.163.1
+2021-09-23 00:56:51|DEBUG|7|TorpedoSync.UDP|| my ip = 192.168.110.1
+2021-09-23 00:56:53|ERROR|24|TorpedoSync.CoreWebServer|| System.Net.HttpListenerException (0x80004005): Access is denied
+   at System.Net.HttpListener.AddAllPrefixes()
+   at System.Net.HttpListener.Start()
+   at TorpedoSync.CoreWebServer.Start() in X:\!OneDrive\OneDrive - tzc.edu.cn\!GitHub\TorpedoSync\TorpedoSync\Helpers\CoreWebServer.cs:line 285
+2021-09-23 00:57:24|DEBUG|1|TorpedoSync.TorpedoSyncServer|| Starting Server...
+2021-09-23 00:57:24|DEBUG|1|TorpedoSync.TorpedoSyncServer|| UDP server on port = 21000
+2021-09-23 00:57:24|DEBUG|1|TorpedoSync.TorpedoSyncServer|| TCP server on port = 21001
+2021-09-23 00:57:24|DEBUG|1|TorpedoSync.TorpedoSyncServer|| WEB server on port = 88
+2021-09-23 00:57:24|DEBUG|6|TorpedoSync.UDP|| my ip = 172.16.1.140
+2021-09-23 00:57:24|DEBUG|6|TorpedoSync.UDP|| my ip = 192.168.137.1
+2021-09-23 00:57:24|DEBUG|6|TorpedoSync.UDP|| my ip = 192.168.11.254
+2021-09-23 00:57:24|DEBUG|6|TorpedoSync.UDP|| my ip = 192.168.163.1
+2021-09-23 00:57:24|DEBUG|6|TorpedoSync.UDP|| my ip = 192.168.110.1
+2021-09-23 00:57:26|ERROR|26|TorpedoSync.CoreWebServer|| System.Net.HttpListenerException (0x80004005): Access is denied
+   at System.Net.HttpListener.AddAllPrefixes()
+   at System.Net.HttpListener.Start()
+   at TorpedoSync.CoreWebServer.Start() in X:\!OneDrive\OneDrive - tzc.edu.cn\!GitHub\TorpedoSync\TorpedoSync\Helpers\CoreWebServer.cs:line 285
+2021-09-23 00:58:08|DEBUG|1|TorpedoSync.TorpedoSyncServer|| Starting Server...
+2021-09-23 00:58:08|DEBUG|1|TorpedoSync.TorpedoSyncServer|| UDP server on port = 21000
+2021-09-23 00:58:08|DEBUG|1|TorpedoSync.TorpedoSyncServer|| TCP server on port = 21001
+2021-09-23 00:58:08|DEBUG|1|TorpedoSync.TorpedoSyncServer|| WEB server on port = 88
+2021-09-23 00:58:08|DEBUG|7|TorpedoSync.UDP|| my ip = 172.16.1.140
+2021-09-23 00:58:08|DEBUG|7|TorpedoSync.UDP|| my ip = 192.168.137.1
+2021-09-23 00:58:08|DEBUG|7|TorpedoSync.UDP|| my ip = 192.168.11.254
+2021-09-23 00:58:08|DEBUG|7|TorpedoSync.UDP|| my ip = 192.168.163.1
+2021-09-23 00:58:08|DEBUG|7|TorpedoSync.UDP|| my ip = 192.168.110.1
+2021-09-23 00:58:10|ERROR|29|TorpedoSync.CoreWebServer|| path not found : favicon.ico

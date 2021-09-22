@@ -1,0 +1,9 @@
+X:\!OneDrive\OneDrive - tzc.edu.cn\!GitHub\TorpedoSync\TorpedoSync\obj\Release\TorpedoSync.csproj.CoreCompileInputs.cache
+X:\!OneDrive\OneDrive - tzc.edu.cn\!GitHub\TorpedoSync\TorpedoSync\obj\Release\TorpedoSync.csproj.AssemblyReference.cache
+X:\!OneDrive\OneDrive - tzc.edu.cn\!GitHub\TorpedoSync\TorpedoSync\bin\Release\TorpedoSync.exe.config
+X:\!OneDrive\OneDrive - tzc.edu.cn\!GitHub\TorpedoSync\TorpedoSync\bin\Release\TorpedoSync.exe
+X:\!OneDrive\OneDrive - tzc.edu.cn\!GitHub\TorpedoSync\TorpedoSync\bin\Release\TorpedoSync.pdb
+X:\!OneDrive\OneDrive - tzc.edu.cn\!GitHub\TorpedoSync\TorpedoSync\bin\Release\ZipStorer.dll
+X:\!OneDrive\OneDrive - tzc.edu.cn\!GitHub\TorpedoSync\TorpedoSync\obj\Release\TorpedoSync.csproj.CopyComplete
+X:\!OneDrive\OneDrive - tzc.edu.cn\!GitHub\TorpedoSync\TorpedoSync\obj\Release\TorpedoSync.exe
+X:\!OneDrive\OneDrive - tzc.edu.cn\!GitHub\TorpedoSync\TorpedoSync\obj\Release\TorpedoSync.pdb
